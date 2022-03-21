@@ -1,4 +1,6 @@
-# Three.js Journey
+# Galaxy Generator
+
+This is a website made in three.js to generate galaxies. Don't go too crazy.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
